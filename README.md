@@ -1,7 +1,7 @@
-# 🚀 Task 3 - Infrastructure as Code (IaC) with Terraform
+<img width="1903" height="601" alt="image" src="https://github.com/user-attachments/assets/a92220b9-1371-422d-89fb-075063281e39" /># 🚀 Task 3 - Infrastructure as Code (IaC) with Terraform
 
 ## 📌 Objective
-Provision a local Docker container using **Terraform** and understand the basics of **Infrastructure as Code (IaC).**
+Provision a local Docker container using **Terraform** and understand the basics of **Infrastructure as Code (IaC) using a simple image of nginx .**
 
 ---
 
@@ -53,32 +53,7 @@ terraform state list
 terraform destroy -auto-approve
 ```
 
----
-
-## ✅ Outcome
-- Learned how to **provision infrastructure using IaC** with Terraform.  
-- Understood commands: `init`, `plan`, `apply`, `destroy`, and `state`.  
-- Successfully deployed and destroyed a Docker container via Terraform.  
-
----
-
-## 📸 Screenshots (to be added in `logs/` folder)
-- `terraform init`  
-- `terraform plan`  
-- `terraform apply`  
-- `docker ps` output  
-- `terraform destroy`  
-
----
-
-## 🎯 Interview Questions Covered
-1. What is IaC?  
-2. How does Terraform work?  
-3. What is Terraform state file?  
-4. Difference between apply and plan.  
-5. What are Terraform providers?  
-6. What is resource dependency?  
-7. How do you handle secret variables?  
-8. Explain the benefits of Terraform.  
+### 6. Output
+<img width="1903" height="601" alt="image" src="https://github.com/user-attachments/assets/4c645146-6fc7-41e6-aa8b-c38d4e309a6f" />
 
 ---
